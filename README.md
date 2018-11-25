@@ -1,6 +1,6 @@
-Bike-Share-Viz
+# Bike-Share-Viz
 
-# About
+## About
 
 Excercize in exploring bike share data This uses start/stop station 
 ride location data from Chicago divvy bikes to create pseudo best-ride 
@@ -18,14 +18,14 @@ segments from each possible origin-destination.
 
 Mapping builds on Code supplied by james cheshire Feb 2012, blog
 
-# Basic take-away
+## Basic take-away
 
 Very different use case by  regular divvy members vs tourists.
 Tourists were more likely to take shorter rides, within the loop 
 and along the shore, while regular riders took longer home-work
 rides that went further into non-loop neighborhoods.
 
-# Notes
+## Notes
 
 Most gpx files deleted for upload to github, in general not the most 
 efficient way of making a likely route.  
