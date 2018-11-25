@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Routino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Creator : Routino - http://www.routino.org/</desc>
+<copyright author="Based on OpenStreetMap data from http://www.openstreetmap.org/">
+<license>http://creativecommons.org/licenses/by-sa/2.0/</license>
+</copyright>
+</metadata>
+<trk>
+<name>Shortest route</name>
+<desc>Shortest route between &apos;start&apos; and &apos;finish&apos; waypoints</desc>
+<trkseg>
+<trkpt lat="41.909369" lon="-87.677694"/>
+<trkpt lat="41.909374" lon="-87.677438"/>
+<trkpt lat="41.908956" lon="-87.677422"/>
+<trkpt lat="41.908179" lon="-87.676175"/>
+<trkpt lat="41.908981" lon="-87.675272"/>
+<trkpt lat="41.908687" lon="-87.674828"/>
+<trkpt lat="41.909010" lon="-87.674436"/>
+<trkpt lat="41.909350" lon="-87.674056"/>
+<trkpt lat="41.909610" lon="-87.673782"/>
+<trkpt lat="41.910089" lon="-87.673788"/>
+<trkpt lat="41.910101" lon="-87.673195"/>
+<trkpt lat="41.910110" lon="-87.672564"/>
+<trkpt lat="41.910327" lon="-87.672571"/>
+</trkseg>
+</trk>
+</gpx>

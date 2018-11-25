@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Routino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Creator : Routino - http://www.routino.org/</desc>
+<copyright author="Based on OpenStreetMap data from http://www.openstreetmap.org/">
+<license>http://creativecommons.org/licenses/by-sa/2.0/</license>
+</copyright>
+</metadata>
+<trk>
+<name>Shortest route</name>
+<desc>Shortest route between &apos;start&apos; and &apos;finish&apos; waypoints</desc>
+<trkseg>
+<trkpt lat="41.869431" lon="-87.655484"/>
+<trkpt lat="41.869435" lon="-87.655255"/>
+<trkpt lat="41.869885" lon="-87.655273"/>
+<trkpt lat="41.869865" lon="-87.656783"/>
+<trkpt lat="41.869807" lon="-87.656783"/>
+<trkpt lat="41.869797" lon="-87.657272"/>
+<trkpt lat="41.869786" lon="-87.657791"/>
+<trkpt lat="41.870350" lon="-87.657811"/>
+<trkpt lat="41.870341" lon="-87.658315"/>
+<trkpt lat="41.871295" lon="-87.658344"/>
+<trkpt lat="41.871301" lon="-87.658042"/>
+<trkpt lat="41.872236" lon="-87.658060"/>
+<trkpt lat="41.872233" lon="-87.658369"/>
+<trkpt lat="41.872204" lon="-87.660197"/>
+<trkpt lat="41.872662" lon="-87.660213"/>
+<trkpt lat="41.872718" lon="-87.660214"/>
+<trkpt lat="41.873191" lon="-87.660231"/>
+<trkpt lat="41.873182" lon="-87.660750"/>
+<trkpt lat="41.873422" lon="-87.660803"/>
+<trkpt lat="41.873587" lon="-87.660810"/>
+<trkpt lat="41.873579" lon="-87.661219"/>
+<trkpt lat="41.873747" lon="-87.661225"/>
+<trkpt lat="41.873766" lon="-87.661773"/>
+<trkpt lat="41.873788" lon="-87.661774"/>
+<trkpt lat="41.874149" lon="-87.661784"/>
+<trkpt lat="41.874248" lon="-87.661786"/>
+<trkpt lat="41.875267" lon="-87.661819"/>
+<trkpt lat="41.875280" lon="-87.661079"/>
+<trkpt lat="41.875306" lon="-87.659788"/>
+<trkpt lat="41.875309" lon="-87.659517"/>
+<trkpt lat="41.875346" lon="-87.657044"/>
+<trkpt lat="41.874672" lon="-87.656927"/>
+</trkseg>
+</trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Routino" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+<metadata>
+<desc>Creator : Routino - http://www.routino.org/</desc>
+<copyright author="Based on OpenStreetMap data from http://www.openstreetmap.org/">
+<license>http://creativecommons.org/licenses/by-sa/2.0/</license>
+</copyright>
+</metadata>
+<trk>
+<name>Shortest route</name>
+<desc>Shortest route between &apos;start&apos; and &apos;finish&apos; waypoints</desc>
+<trkseg>
+<trkpt lat="41.922745" lon="-87.697087"/>
+<trkpt lat="41.922716" lon="-87.697038"/>
+<trkpt lat="41.922023" lon="-87.695917"/>
+<trkpt lat="41.921800" lon="-87.695532"/>
+<trkpt lat="41.921703" lon="-87.695384"/>
+<trkpt lat="41.921486" lon="-87.695031"/>
+<trkpt lat="41.921363" lon="-87.694832"/>
+<trkpt lat="41.920772" lon="-87.693888"/>
+<trkpt lat="41.920645" lon="-87.693665"/>
+<trkpt lat="41.920937" lon="-87.693659"/>
+<trkpt lat="41.920947" lon="-87.693260"/>
+<trkpt lat="41.920960" lon="-87.692740"/>
+<trkpt lat="41.920778" lon="-87.692732"/>
+<trkpt lat="41.920785" lon="-87.692061"/>
+<trkpt lat="41.920786" lon="-87.691875"/>
+<trkpt lat="41.920791" lon="-87.691380"/>
+<trkpt lat="41.920787" lon="-87.690834"/>
+<trkpt lat="41.921205" lon="-87.690851"/>
+<trkpt lat="41.921221" lon="-87.689853"/>
+<trkpt lat="41.921629" lon="-87.689866"/>
+<trkpt lat="41.922041" lon="-87.689874"/>
+<trkpt lat="41.922449" lon="-87.689881"/>
+<trkpt lat="41.922451" lon="-87.689321"/>
+<trkpt lat="41.922454" lon="-87.688774"/>
+<trkpt lat="41.922456" lon="-87.688129"/>
+<trkpt lat="41.922458" lon="-87.687574"/>
+<trkpt lat="41.922619" lon="-87.687579"/>
+<trkpt lat="41.922619" lon="-87.687061"/>
+<trkpt lat="41.922633" lon="-87.685551"/>
+<trkpt lat="41.922633" lon="-87.685139"/>
+<trkpt lat="41.922639" lon="-87.684684"/>
+<trkpt lat="41.922629" lon="-87.684626"/>
+<trkpt lat="41.922666" lon="-87.683219"/>
+<trkpt lat="41.922671" lon="-87.682689"/>
+<trkpt lat="41.922685" lon="-87.682080"/>
+<trkpt lat="41.922696" lon="-87.681484"/>
+<trkpt lat="41.922704" lon="-87.680883"/>
+<trkpt lat="41.922721" lon="-87.680272"/>
+<trkpt lat="41.922724" lon="-87.679864"/>
+<trkpt lat="41.922654" lon="-87.679651"/>
+<trkpt lat="41.922272" lon="-87.679056"/>
+<trkpt lat="41.922072" lon="-87.679018"/>
+<trkpt lat="41.921786" lon="-87.679006"/>
+<trkpt lat="41.921370" lon="-87.678992"/>
+<trkpt lat="41.921382" lon="-87.678274"/>
+<trkpt lat="41.921391" lon="-87.677766"/>
+<trkpt lat="41.921394" lon="-87.677255"/>
+<trkpt lat="41.921438" lon="-87.674768"/>
+<trkpt lat="41.921448" lon="-87.674142"/>
+<trkpt lat="41.921463" lon="-87.673295"/>
+<trkpt lat="41.921469" lon="-87.672868"/>
+<trkpt lat="41.920319" lon="-87.672826"/>
+<trkpt lat="41.920202" lon="-87.672515"/>
+<trkpt lat="41.919806" lon="-87.671811"/>
+<trkpt lat="41.919334" lon="-87.671142"/>
+<trkpt lat="41.919296" lon="-87.670935"/>
+<trkpt lat="41.918472" lon="-87.669588"/>
+<trkpt lat="41.918439" lon="-87.669167"/>
+<trkpt lat="41.918254" lon="-87.668953"/>
+<trkpt lat="41.917904" lon="-87.668789"/>
+<trkpt lat="41.917902" lon="-87.668922"/>
+</trkseg>
+</trk>
+</gpx>
