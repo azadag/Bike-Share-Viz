@@ -22,7 +22,7 @@ Mapping builds on Code supplied by james cheshire Feb 2012, blog
  
 <img src="\final\Likely Routes - Loop - reduced.jpg">
 
-[full-size]("/../../final/Likely Routes - Loop.jpg")
+[full-size](https://github.com/azadag/Bike-Share-Viz/blob/master/final/Likely%20Routes%20-%20Loop.jpg)
 
 ## Basic take-away
 
