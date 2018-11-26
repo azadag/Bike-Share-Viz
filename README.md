@@ -18,6 +18,12 @@ segments from each possible origin-destination.
 
 Mapping builds on Code supplied by james cheshire Feb 2012, blog
 
+## Final Output
+ 
+<img src="\final\Likely Routes - Loop - reduced.jpg">
+
+[Full Sized Image]("\final\Likely Routes - Loop.jpg")
+
 ## Basic take-away
 
 Very different use case by  regular divvy members vs tourists.
