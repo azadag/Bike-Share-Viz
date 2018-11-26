@@ -22,7 +22,7 @@ Mapping builds on Code supplied by james cheshire Feb 2012, blog
  
 <img src="\final\Likely Routes - Loop - reduced.jpg">
 
-[Full Sized Image](\final\Likely Routes - Loop.jpg)
+[Full Sized Image](/final/Likely Routes - Loop.jpg)
 
 ## Basic take-away
 
